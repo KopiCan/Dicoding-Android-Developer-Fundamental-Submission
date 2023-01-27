@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Github User Search App</string>
+    <string name="search_guide">Search Github\'s Username By\nPressing The Search Button</string>
+    <string name="search_field">Enter Username</string>
+    <string name="search">Search</string>
+    <string name="search_not_found">We couldn’t find any username</string>
+    <string name="repo_value">%d\nRepository</string>
+    <string name="followers_header">Followers</string>
+    <string name="following_header">Following</string>
+    <string name="followers_value">%d\nFollowers</string>
+    <string name="following_value">%d\nFollowing</string>
+
+    <string-array name="tab_header">
+        <item>@string/followers_header</item>
+        <item>@string/following_header</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fav_float_button">fav_float_button</string>
+    <string name="fav_bar">favorite_bar</string>
+    <string name="setting_bar">setting_bar</string>
+    <string name="hint_theme">Theme Costumization</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="no_name">Name Unidentified</string>
+</resources>
